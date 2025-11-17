@@ -1,0 +1,1 @@
+This will be a small website which connect NextJS, Optimizely cms, and dotnet.
